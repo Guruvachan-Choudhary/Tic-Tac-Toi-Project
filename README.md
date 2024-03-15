@@ -28,6 +28,6 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/guruvachan-choudhary/tic-tac-toe.git
+   git clone https://github.com/Guruvachan-Choudhary/Tic-Tac-Toi.git
 
  
